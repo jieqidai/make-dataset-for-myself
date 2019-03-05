@@ -1,2 +1,3 @@
-# make-dataset-for-my
-测试使用
+# augment
+a data augment tool for object detection
+python3 opencv3
